@@ -28,4 +28,4 @@ Check folder tests/:
 
 2) test_tomo.py - reconstruction by the cg method
 
-3) test_admm.py - reconstruction by the cg method
+3) test_admm.py - reconstruction by the admm method
